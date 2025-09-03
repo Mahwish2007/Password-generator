@@ -1,7 +1,7 @@
 # 🔐 Avangard Cybersecurity – Password Generator
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/avangard7860/password-generator)
-![GitHub repo size](https://img.shields.io/github/repo-size/avangard7860/password-generator)
+![GitHub repo size](https://github.com/Mahwish2007/Password-generator/blob/main/password_generator.py)
 ![GitHub stars](https://img.shields.io/github/stars/avangard7860/password-generator?style=social)
 
 A simple **Python password generator** using the `secrets` module for strong,
