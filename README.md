@@ -1,6 +1,6 @@
 # 🔐 Avangard Cybersecurity – Password Generator
 
-![GitHub last commit](253c5667aa7cb4dfe9842569600db9e21b6af68e)
+![GitHub last commit](https://github.com/Mahwish2007/Password-generator/commit/253c5667aa7cb4dfe9842569600db9e21b6af68e)
 ![GitHub repo size](https://github.com/Mahwish2007/Password-generator/blob/main/password_generator.py)
 ![GitHub stars](https://github.com/Mahwish2007/Password-generator)
 
